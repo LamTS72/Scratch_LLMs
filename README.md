@@ -1,4 +1,5 @@
 ## Some scratch about LLMs ##
+#### Notebook run in Colab
 ### 1) Pretraining LLMs
 ### 2) Finetuning LLMs
 ### 3) Generative AI of LLMs
